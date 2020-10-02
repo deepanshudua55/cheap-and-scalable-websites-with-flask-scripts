@@ -21,7 +21,7 @@ In this lesson, we'll install Flask and create our very first "Hello World" appl
 
 ### 3 - Templates
 
-In this episode we create our first template and discuss template inheritance.
+In this episode we create our first template and discuss about template inheritance.
 
 ### 4 - Add the Post Class
 
